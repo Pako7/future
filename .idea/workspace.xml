@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="479a3fc8-bc48-4ffb-b647-ef4c7bc90bda" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="179" column="33" lean-forward="false" selection-start-line="179" selection-start-column="33" selection-end-line="179" selection-end-column="33" />
+            <state relative-caret-position="332">
+              <caret line="253" column="37" lean-forward="false" selection-start-line="253" selection-start-column="37" selection-end-line="253" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -38,7 +37,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>agua</find>
       <find>Sin embargo hay algo que</find>
       <find>aprox</find>
       <find>18</find>
@@ -68,6 +66,7 @@
       <find>2018 aprox.</find>
       <find>pala</find>
       <find>pak</find>
+      <find>El frente y un lado cuentan con albarrada</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -332,12 +331,12 @@
       <updated>1577896355302</updated>
       <workItem from="1577896356753" duration="6963000" />
       <workItem from="1633391862664" duration="2890000" />
-      <workItem from="1633803726096" duration="208000" />
+      <workItem from="1633803726096" duration="299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10061000" />
+    <option name="totallyTimeSpent" value="10152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="23" width="1760" height="1017" extended-state="0" />
@@ -413,8 +412,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="179" column="33" lean-forward="false" selection-start-line="179" selection-start-column="33" selection-end-line="179" selection-end-column="33" />
+        <state relative-caret-position="332">
+          <caret line="253" column="37" lean-forward="false" selection-start-line="253" selection-start-column="37" selection-end-line="253" selection-end-column="37" />
           <folding />
         </state>
       </provider>
