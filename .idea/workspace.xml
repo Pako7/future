@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="479a3fc8-bc48-4ffb-b647-ef4c7bc90bda" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,21 +13,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="69" column="49" lean-forward="true" selection-start-line="69" selection-start-column="49" selection-end-line="69" selection-end-column="49" />
+            <state relative-caret-position="6765">
+              <caret line="396" column="61" lean-forward="false" selection-start-line="396" selection-start-column="61" selection-end-line="396" selection-end-column="61" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -48,25 +47,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>2018 aprox.</find>
-      <find>pala</find>
-      <find>pak</find>
-      <find>El frente y un lado cuentan con albarrada</find>
-      <find>Libre de malez</find>
-      <find>&lt;!--Moy--&gt;</find>
-      <find>mirna</find>
-      <find>faria</find>
-      <find>el terr</find>
-      <find>frente por</find>
-      <find>&lt;strong&gt;Tipo de terreno&lt;/strong&gt; &lt;br&gt; &lt;br&gt;</find>
-      <find>nair</find>
-      <find>nairoby/3.</find>
-      <find>camp</find>
-      <find>20x50</find>
-      <find>naiy</find>
-      <find>pensa</find>
-      <find>agenda</find>
-      <find>medidas</find>
       <find>nicam</find>
       <find>terreno</find>
       <find>farias</find>
@@ -78,10 +58,42 @@
       <find>nai</find>
       <find>fari</find>
       <find>moy</find>
+      <find>10x30</find>
+      <find>10x30F</find>
+      <find>10x40N</find>
+      <find>15x30M</find>
+      <find>20x50FU</find>
+      <find>20x50E</find>
+      <find>id=&quot;index-banner&quot;</find>
+      <find>id=&quot;index-banner</find>
+      <find>20x50FUEX</find>
+      <find>10x30FEX</find>
+      <find>10x40NEX</find>
+      <find>10x30-FUN-LEG-ARB-FRUT</find>
+      <find>10x30-FUN-LEG-ARB-FRUT-MDNAF</find>
+      <find>15x30MNEX</find>
+      <find>15x30-FUN-LEG-MDMLT</find>
+      <find>0x50-EJI-MDF-954</find>
+      <find>20x50EEX</find>
+      <find>20x50-EJI-MDF-954</find>
+      <find>20x50-EJI-FRENTE-CAMPO-MDE-954</find>
     </findStrings>
     <replaceStrings>
       <replace>frente</replace>
       <replace>&lt;strong&gt;Tipo de terreno&lt;/strong&gt; &lt;br&gt;</replace>
+      <replace>10x30FEX</replace>
+      <replace>10x40NEX</replace>
+      <replace>20x50FUEX</replace>
+      <replace>20x50EEX</replace>
+      <replace>10x30-FUN-LEG-ARB-FRUT</replace>
+      <replace>10x40-FUN-LEG-AGUA-LUZ</replace>
+      <replace>10x30-FUN-LEG-ARB-FRUT-MDNAF</replace>
+      <replace>15x30MNEX</replace>
+      <replace>15x30-FUN-LEG-MDMLT-293</replace>
+      <replace>20x50-EJI-MDF-954</replace>
+      <replace>20x50-EJI-FRENTE-CAMPO-MDE-954</replace>
+      <replace>20x50-EJI-MDFT-954</replace>
+      <replace>20x50-EJI-FRENTE-CAMPO-MDE-728</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -90,8 +102,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -351,12 +363,12 @@
       <workItem from="1633817061451" duration="348000" />
       <workItem from="1633969126115" duration="249000" />
       <workItem from="1642635345125" duration="6643000" />
-      <workItem from="1642681983543" duration="1385000" />
+      <workItem from="1642681983543" duration="3211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19028000" />
+    <option name="totallyTimeSpent" value="20854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1842" y="23" width="1760" height="1017" extended-state="0" />
@@ -563,14 +575,6 @@
     <entry file="file://$PROJECT_DIR$/images/kidding.jpeg" />
     <entry file="file://$PROJECT_DIR$/images/waterfalls.jpg" />
     <entry file="file://$PROJECT_DIR$/images/1.png" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="69" column="49" lean-forward="true" selection-start-line="69" selection-start-column="49" selection-end-line="69" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/init.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -582,7 +586,15 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6765">
+          <caret line="396" column="61" lean-forward="false" selection-start-line="396" selection-start-column="61" selection-end-line="396" selection-end-column="61" />
           <folding />
         </state>
       </provider>
