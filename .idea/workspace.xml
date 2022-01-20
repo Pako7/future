@@ -16,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="134" column="44" lean-forward="true" selection-start-line="134" selection-start-column="44" selection-end-line="134" selection-end-column="44" />
+            <state relative-caret-position="527">
+              <caret line="345" column="32" lean-forward="true" selection-start-line="345" selection-start-column="32" selection-end-line="345" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -37,13 +37,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>17</find>
-      <find>Porque se merecen</find>
-      <find>En verdad eso es de ap</find>
-      <find>Porque</find>
-      <find>prende y te dan trabaj</find>
-      <find>erá y no</find>
-      <find>Te deseo l</find>
       <find>ue he escrito estos</find>
       <find>2020</find>
       <find>uy intelig</find>
@@ -67,7 +60,18 @@
       <find>fari</find>
       <find>mirna</find>
       <find>faria</find>
+      <find>el terr</find>
+      <find>frente por</find>
+      <find>&lt;strong&gt;Tipo de terreno&lt;/strong&gt; &lt;br&gt; &lt;br&gt;</find>
+      <find>nair</find>
+      <find>nairoby/3.</find>
+      <find>camp</find>
+      <find>moy</find>
     </findStrings>
+    <replaceStrings>
+      <replace>frente</replace>
+      <replace>&lt;strong&gt;Tipo de terreno&lt;/strong&gt; &lt;br&gt;</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -352,12 +356,12 @@
       <workItem from="1633803726096" duration="405000" />
       <workItem from="1633817061451" duration="348000" />
       <workItem from="1633969126115" duration="249000" />
-      <workItem from="1642635345125" duration="1641000" />
+      <workItem from="1642635345125" duration="2673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12496000" />
+    <option name="totallyTimeSpent" value="13528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1858" y="41" width="1760" height="1017" extended-state="0" />
@@ -481,8 +485,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="134" column="44" lean-forward="true" selection-start-line="134" selection-start-column="44" selection-end-line="134" selection-end-column="44" />
+        <state relative-caret-position="527">
+          <caret line="345" column="32" lean-forward="true" selection-start-line="345" selection-start-column="32" selection-end-line="345" selection-end-column="32" />
           <folding />
         </state>
       </provider>
