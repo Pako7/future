@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="479a3fc8-bc48-4ffb-b647-ef4c7bc90bda" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="483" column="8" lean-forward="true" selection-start-line="483" selection-start-column="8" selection-end-line="483" selection-end-column="8" />
+            <state relative-caret-position="307">
+              <caret line="55" column="4" lean-forward="false" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -48,7 +47,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>terreno</find>
       <find>farias</find>
       <find>trase</find>
       <find>200</find>
@@ -57,7 +55,6 @@
       <find>fco</find>
       <find>nai</find>
       <find>fari</find>
-      <find>moy</find>
       <find>10x30</find>
       <find>10x30F</find>
       <find>10x40N</find>
@@ -78,6 +75,8 @@
       <find>20x50-EJI-MDF-954</find>
       <find>20x50-EJI-FRENTE-CAMPO-MDE-954</find>
       <find>10x30-FUN-LEG-ARB-FRUT-MDFLT-194</find>
+      <find>moy</find>
+      <find>15x30-FUN-LEG-MDMLT-293</find>
     </findStrings>
     <replaceStrings>
       <replace>frente</replace>
@@ -365,12 +364,12 @@
       <workItem from="1633969126115" duration="249000" />
       <workItem from="1642635345125" duration="6643000" />
       <workItem from="1642681983543" duration="3851000" />
-      <workItem from="1642702294808" duration="205000" />
+      <workItem from="1642702294808" duration="408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21699000" />
+    <option name="totallyTimeSpent" value="21902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="30" width="1760" height="1017" extended-state="0" />
@@ -619,8 +618,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="483" column="8" lean-forward="true" selection-start-line="483" selection-start-column="8" selection-end-line="483" selection-end-column="8" />
+        <state relative-caret-position="307">
+          <caret line="55" column="4" lean-forward="false" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="81" />
           <folding />
         </state>
       </provider>
