@@ -2,6 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="479a3fc8-bc48-4ffb-b647-ef4c7bc90bda" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enrique/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enrique/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/enrique/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/farias/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/farias/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/farias/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fco_20x50/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fco_20x50/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fco_20x50/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gloria/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gloria/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gloria/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/moy/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/moy/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/moy/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nairoby/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nairoby/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nairoby/3.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -17,8 +35,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="249" column="0" lean-forward="false" selection-start-line="249" selection-start-column="4" selection-end-line="325" selection-end-column="10" />
+            <state relative-caret-position="195">
+              <caret line="82" column="6" lean-forward="true" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -48,7 +66,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fco</find>
       <find>nai</find>
       <find>fari</find>
       <find>10x30</find>
@@ -78,6 +95,7 @@
       <find>50 mts albarrada</find>
       <find>EJI-MDFT-954</find>
       <find>MDGAT-612</find>
+      <find>-FUN-LEG-ARB-FRUT-MDF</find>
     </findStrings>
     <replaceStrings>
       <replace>frente</replace>
@@ -154,6 +172,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -197,7 +216,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -370,18 +388,19 @@
       <workItem from="1642874824148" duration="288000" />
       <workItem from="1643036218783" duration="494000" />
       <workItem from="1643054224429" duration="256000" />
-      <workItem from="1643206690059" duration="29000" />
+      <workItem from="1643206690059" duration="158000" />
+      <workItem from="1644936798976" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24197000" />
+    <option name="totallyTimeSpent" value="24354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="30" width="1760" height="1017" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16880094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17054714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -744,8 +763,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="249" column="0" lean-forward="false" selection-start-line="249" selection-start-column="4" selection-end-line="325" selection-end-column="10" />
+        <state relative-caret-position="195">
+          <caret line="82" column="6" lean-forward="true" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
           <folding />
         </state>
       </provider>
